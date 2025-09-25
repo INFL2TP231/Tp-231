@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758798645 source:c:\monex\tp1info231\main.c
+	<stdio.h>
+	<stdlib.h>
+
